@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(MaterialApp(
-      title: "Contador de Pessoas",
+      title: "Contador de Pessoass",
       home: Stack(
         children: <Widget>[
           Image.asset(
